@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395948321414",
+    "project_id": "gaalguishop",
+    "storage_bucket": "gaalguishop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395948321414:android:46cb2c24faeb84bd7a7f07",
+        "android_client_info": {
+          "package_name": "com.example.gaalguishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395948321414-nolfam2vu878srrbu9q4r7bvo86p88om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEGRPgQC3WqwoAAZa0f7hK5reW9DBHtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395948321414-nolfam2vu878srrbu9q4r7bvo86p88om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
